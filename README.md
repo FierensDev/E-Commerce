@@ -1,6 +1,6 @@
 # 🛒E-commerce | ReactJS Symfony💰
   
-First-year final project E-commerce
+First-year final project E-commerce.
 Agile methodology.
   
 `To start the project :`  
