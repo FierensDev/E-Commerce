@@ -1,17 +1,17 @@
-# 🛒Projet e-commerce | ReactJS Symfony💰
+# 🛒E-commerce | ReactJS Symfony💰
   
-Projet e-commerce de fin de première année.  
-Méthode agile.  
+First-year final project E-commerce
+Agile methodology.
   
-`Démarrer le projet :`  
+`To start the project :`  
 ```
-Cloner le dépôt
+Clone the repository
 
-dossier Front :
+Front end folder :
 npm install
 npm start
 
-dossier Back :
+Back end folder :
 composer install
 symfony serve
 ```
